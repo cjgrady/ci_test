@@ -1,4 +1,4 @@
 python-coveralls
 pytest
 pytest-cov>=2.4.0,<2.6
-pytests-pep8
+pytest-pep8
